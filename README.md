@@ -22,15 +22,13 @@ Some interface pages are not connected to backend functionality yet, including b
 
 ## Screenshots
 
-Screenshots are not in the repository yet. Add captures to `docs/screenshots/` and replace these placeholders:
-
 | Page | Screenshot |
 | --- | --- |
-| Home feed | `docs/screenshots/home-feed.png` |
+| Home feed | `assets/Home.png` |
 
-| Post detail | `docs/screenshots/post-detail.png` |
+| Post detail | `assets/Post.png` |
 
-| User profile | `docs/screenshots/user-profile.png` |
+| User profile | `assets/Profile.png` |
 
 ## Run locally
 
