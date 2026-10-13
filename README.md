@@ -29,13 +29,8 @@ Screenshots are not in the repository yet. Add captures to `docs/screenshots/` a
 | Home feed | `docs/screenshots/home-feed.png` |
 
 | Post detail | `docs/screenshots/post-detail.png` |
+
 | User profile | `docs/screenshots/user-profile.png` |
-
-Once added, display them here with Markdown, for example:
-
-```md
-![Home feed](docs/screenshots/home-feed.png)
-```
 
 ## Run locally
 
@@ -46,7 +41,6 @@ You will need Node.js, npm, and a running MongoDB instance. Start the backend an
 ```powershell
 cd backend
 npm install
-Copy-Item .env.example .env
 ```
 
 Edit `backend/.env` if needed. Set `MONGODB_URL` to your MongoDB connection string and replace `JWT_SECRET` with a private random value. Then start the API:
@@ -64,7 +58,6 @@ In a second terminal:
 ```powershell
 cd frontend
 npm install
-Copy-Item .env.example .env
 npm run dev
 ```
 
