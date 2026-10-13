@@ -22,13 +22,17 @@ Some interface pages are not connected to backend functionality yet, including b
 
 ## Screenshots
 
-| Page | Screenshot |
-| --- | --- |
-| Home feed | `assets/Home.png` |
+### Home feed
 
-| Post detail | `assets/Post.png` |
+![Hashnode home feed](assets/Home.png)
 
-| User profile | `assets/Profile.png` |
+### Post detail
+
+![Hashnode post detail](assets/Post.png)
+
+### User profile
+
+![Hashnode user profile](assets/Profile.png)
 
 ## Run locally
 
